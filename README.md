@@ -122,3 +122,16 @@ In this context, Logistic Regression, SVM, and Random Forest are reliable for fr
 - The consistency in metrics such as Test AUC and Test F1 across many of the engineered features suggests that certain features improve the model's robustness in detecting true positives, essential for fraud detection.
   
 In conclusion, carefully engineered features like ratios and logarithmic transformations of transactional metrics improved model generalization, whereas overly simplistic or redundant binary features added limited value. The best classifier maintained a high generalization performance when selecting key engineered features, optimizing the balance between complexity and interpretability.
+
+
+# Authors:
+
+```bash
+Author: Sai Kiran Reddy Dyavadi
+Role  : Data Scientist
+Email : dyavadi324@gmail.com
+```
+```bash
+Author: Rishitha Nimma
+Email : rishitha532@gmail.com
+```
